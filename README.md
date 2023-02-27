@@ -25,3 +25,15 @@
 - npm install
 - react-native run-ios
 - react-native run-android
+
+## My Setup for this app:
+
+- MacOS Monterey v12.5.1
+- Chip Apple M1
+- Xcode 14.2
+- Node v16.13.0 and v18.14.0 (Using NVM)
+- Ruby Version => ruby-2.7.6 [ arm64 ]
+- cocoapods (1.11.3)
+- Android 12 (S)
+- Android SDK Platform 31
+- Android SDK Build-Tools 31.0.0
